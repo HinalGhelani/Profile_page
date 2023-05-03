@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot
+
+<img src = "https://user-images.githubusercontent.com/121785230/235976014-a07fc2d6-aece-4dbb-aa4c-d5ae9ac55337.png" height = "500px"/> |
+<img src = "https://user-images.githubusercontent.com/121785230/235976442-658cd225-fe40-4d18-b798-349c69c63f71.png" height = "500px"/> |
+<img src = "https://user-images.githubusercontent.com/121785230/235976996-7da58424-84f2-40e9-b004-7e12ea56772f.png" height = "500px"/>
 
 This project is a starting point for a Flutter application.
 
